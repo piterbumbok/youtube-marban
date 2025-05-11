@@ -3,4 +3,4 @@
 ## Оглавление
 
 - [Настройка 3x-ui с обновлениями](https://github.com/piterbumbok/youtube-marban/blob/main/3x-ui-settings.md) 
-- [Настройка Marzban с обновлениями](https://github.com/piterbumbok/youtube-marban/blob/main/marzban-settings.md)
+- [Настройка Marzban с обновлениями](/marzban-settings.md)
